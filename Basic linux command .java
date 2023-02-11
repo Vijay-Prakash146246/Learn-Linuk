@@ -108,3 +108,5 @@ mkdir "folder 4" "folder 5"
 mkdir -p "folder 6"/"folder 7"
 ls
 //Creating files using redirection
+
+
